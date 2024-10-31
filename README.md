@@ -5,6 +5,8 @@ OVERVIEW
 This project implements a Wildfire Prediction System that predicts the likelihood of a wildfire occurring based on environmental factors, as well as estimates fire size, duration, and suppression cost. 
 The app uses multiple pre-trained models to provide these predictions and is powered by Gradio for a user-friendly web interface.
 
+ML Model: Logistic Regression with RMSE of 0.5514 is the best classification model. Typically Logistic Regression is specifically designed for binary classification.
+
 FEATURES
 
 Predicts whether a wildfire will occur based on environmental inputs.
