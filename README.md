@@ -19,3 +19,5 @@ HOW TO RUN:
 2. Place the pre-trained models and label encoder files in the same directory as the script.
 
 3. Run the script
+
+GUI:https://huggingface.co/spaces/vjl004/Wild_Fire
