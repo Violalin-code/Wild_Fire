@@ -1,4 +1,4 @@
-# Wildfire Prediction App 🌳🔥
+# Wildfire Prediction System: Estimating Occurrence, Size, Duration, and Suppression Costs Using Machine Learning and Gradio 🌳🔥
 ## Overview
 This project implements a Wildfire Prediction System that predicts the likelihood of a wildfire occurring based on environmental factors, and estimates the fire size, duration, and suppression costs. The system uses pre-trained machine learning models for classification and regression tasks and is powered by Gradio for a user-friendly web interface.
 
