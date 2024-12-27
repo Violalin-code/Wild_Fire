@@ -2,6 +2,12 @@
 ## Overview
 This project implements a Wildfire Prediction System that predicts the likelihood of a wildfire occurring based on environmental factors, and estimates the fire size, duration, and suppression costs. The system uses pre-trained machine learning models for classification and regression tasks and is powered by Gradio for a user-friendly web interface.
 
+## Table of Contents
+- [ML Models](#ML-Models)
+- [Features](#Features)
+- [How to Run the Project](#How-to-Run)
+- [Project Workflow](#Project-Workflow)
+
 ## ML Models
 Classification Model: Logistic Regression, chosen for its low RMSE (0.5514), predicts whether a wildfire will occur based on environmental variables.
 Regression Model: Random Forest Regressor, used for predicting the size, duration, and suppression cost of the wildfire.
@@ -19,6 +25,7 @@ best_classification_model.pkl: Pre-trained classification model for predicting w
 best_regression_model.pkl: Pre-trained regression model for predicting fire size, duration, and suppression cost.
 label_encoder.pkl: (Optional) Label encoder for decoding categorical predictions.
 Run the Script: Execute the script to start the app.
+
 GUI:https://huggingface.co/spaces/vjl004/Wild_Fire
 
 ## Project Files
